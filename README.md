@@ -2,8 +2,8 @@
 
 > Uma API RESTful desenvolvida em Python para gerenciar o backend de uma plataforma de e-commerce. O sistema oferece autenticação de usuários, gerenciamento completo do catálogo de produtos e um fluxo de carrinho de compras com checkout.
 
-![Demonstração da Aplicação](https://via.placeholder.com/800x400?text=Sua+Imagem+ou+GIF+Aqui)
-*Dica: Substitua a imagem acima por um print do Insomnia/Postman testando as rotas ou um GIF da aplicação.*
+![Demonstração da Aplicação](<img width="1280" height="719" alt="postamn" src="https://github.com/user-attachments/assets/62110812-6c27-41e6-8a39-ff84123e5b09" />
+)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -52,5 +52,6 @@ O projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 
 1. **Clone este repositório:**
 ```bash
-$ git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-$ cd nome-do-repositorio
+$ git clone https://github.com/Fayderguilherme/Api-Ecommerce
+$ cd Api-Ecommerce
+
