@@ -2,8 +2,6 @@
 
 > Uma API RESTful desenvolvida em Python para gerenciar o backend de uma plataforma de e-commerce. O sistema oferece autenticação de usuários, gerenciamento completo do catálogo de produtos e um fluxo de carrinho de compras com checkout.
 
-![Demonstração da Aplicação](<img width="1280" height="719" alt="postamn" src="https://github.com/user-attachments/assets/62110812-6c27-41e6-8a39-ff84123e5b09" />
-)
 
 ## 🛠️ Tecnologias Utilizadas
 
